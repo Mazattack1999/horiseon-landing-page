@@ -14,4 +14,4 @@ https://mazattack1999.github.io/horiseon-landing-page/
 Refactored by Micah Zahn
 
 ## Screenshot
-./assets/images/week-1-challenges-screenshot
+Develop\assets\images\week-1-challenge-screenshot.png
